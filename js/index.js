@@ -1,11 +1,11 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["Data Scientist",
-                      "Machine Learning Enthusiast",
-                      "Reinforcement Learning Engineer",
-                      "Rutgers University",
-                      "Data Science Graduate '20"
+            strings: ["Entrepreneur, Founder and CEO",
+                      "Data Scientist",
+                      "Machine Learning (Software) Engineer",
+                      "Kaggle Master",
+                      "Deep Reinforcement Learning Enthusiast"
             ],
             typeSpeed: 0.4,
             loop: true
