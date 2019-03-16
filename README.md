@@ -1,4 +1,4 @@
-                                                     Arunkumar Venkataramanan
+                                                   Arunkumar Venkataramanan
 
 An Objectivist😎: Future Influencer and Innovator 🤓 Entrepreneur, Founder, and CEO @DeepBrainz 🤖 AI Researcher, Machine Learning (Software) Engineer, Data Scientist, Kaggle Master, Hacker, Blockchain Developer, AR/VR Coder, Cloud Expert, Open Source Developer, Independent Software Engineer, Freelancer, ...
 
