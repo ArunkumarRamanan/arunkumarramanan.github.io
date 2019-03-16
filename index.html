@@ -1629,19 +1629,35 @@
 	
 <!-- Footer -->
 
-<style>
-footer .glyphicon {
-  font-size: 20px;
-  margin-bottom: 20px;
-  color: #f4511e;
+@media screen and (max-width: 767px) {
+    footer p{
+        display: inline;
+    }
 }
-</style>
 
-<footer class="container-fluid text-center">
+footer {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    background-color: #2c3e50;
+}
+
+footer .container {
+    font-size: 18px;
+}
+
+footer .container p{
+    margin-top: 10px;
+}
+
+footer .container a{
+    color: #8F8;
+}
+
+<footer>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p class="pull-left copyright text-muted">&copy; 2019 Arunkumar Venkataramanan</p>
+<p class="pull-left copyright text-muted">&copy; 2019 Arunkumar Venkataramanan</p>
                 <p class="pull-right text-muted">Designed and Developed by 
                                 <a href="https://github.com/arunkumarramanan">Arunkumar Venkataramanan</a>
                 </p>
