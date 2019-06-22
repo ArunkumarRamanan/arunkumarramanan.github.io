@@ -1,10 +1,11 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["Entrepreneur, Founder and CEO",
-                      "Data Scientist",
+            strings: ["Entrepreneur, Founder and Future CEO",
+                      "Data Scientist - Machine Learning",
                       "Machine Learning (Software) Engineer",
                       "Kaggle Master",
+                      "AI Researcher", 
                       "Deep Reinforcement Learning Enthusiast"
             ],
             typeSpeed: 0.4,
