@@ -2,6 +2,7 @@ $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
             strings: ["Entrepreneur, Founder, AI Chief, and Managing Director",
+                      "CEO of DeepBrainz, A DPIIT Recognized AI Startup",
                       "Data Scientist - Machine Learning",
                       "Machine Learning (Software) Engineer",
                       "Machine Learning Practitioner and Consultant",
