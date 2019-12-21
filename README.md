@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/arunkumarramanan/6658df2b-8990-47a2-b8e5-b27b71862f04/6be38aaa-c7be-44e9-a38d-ee1823afbdd8/_apis/work/boardbadge/42e944f0-efb1-461e-b4a5-395dea3d6d87)](https://dev.azure.com/arunkumarramanan/6658df2b-8990-47a2-b8e5-b27b71862f04/_boards/board/t/6be38aaa-c7be-44e9-a38d-ee1823afbdd8/Microsoft.RequirementCategory)
                                                    Arunkumar Venkataramanan 
                                                     Old Readme (To be updated)
 An Objectivist😎: Future Influencer and Innovator 🤓 Entrepreneur, Founder, and Future CEO @DeepBrainz 🤖 AI Researcher, Machine Learning (Software) Engineer, Data Scientist, Kaggle Master, Hacker, Blockchain Developer, AR/VR Coder, Cloud Expert, Open Source Developer, Independent Software Engineer, Freelancer, ...
