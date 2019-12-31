@@ -1,10 +1,11 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["Entrepreneur, Founder, AI Chief, and Managing Director",
-                      "CEO of DeepBrainz, A DPIIT Recognized AI Startup",
-                      "Data Scientist - Machine Learning",
-                      "Machine Learning (Software) Engineer",
+            strings: ["Entrepreneur, Founder, Innovator",
+                      "CEO, Managing Director (Chairman), CAIO (AI Chief)",
+                      "DeepBrainz: A DPIIT Recognized AI Startup, A Google Cloud Partner Member",
+                      "Data Scientist - Machine Learning (Algorithms)",
+                      "Machine Learning (Software) Engineer, Agile & AnalyticsOps Engineer",
                       "Machine Learning Practitioner and Consultant",
                       "AI Researcher", 
                       "Kaggle Master",
