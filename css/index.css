@@ -10,7 +10,7 @@ body{
     font-size: 13px;
     line-height: 25px;
     /*color: #48a770;*/
-    color: ghostwhite;
+    color: black;
 
     overflow-x: hidden;
     /*padding: 0;*/
@@ -34,22 +34,22 @@ body{
     overflow: hidden;
     position: absolute;
     top: 10%;
-    /*margin: -270.5px auto 0 auto;*/
+    margin: -270.5px auto 0 auto;
 }
 .orange-text-color{
     color: black;
 }
 .silver-text-color{
-    color: silver;
+    color: black;
 }
 .blue-text-color{
-    color: #2F7BDE;
+    color: black;
 }
 .cream-text-color{
-    color: #ffffe6;
+    color: black;
 }
 .white-text-color{
-    color: #1abc9c;
+    color: black;
 }
 
 .no-display{
@@ -76,7 +76,7 @@ body{
 .picture-holder{
     height: 140px;
     margin-top: 50px;
-    /*margin-bottom: 40px;*/
+    margin-bottom: 40px;
     max-width: 100%;
     max-height: 100%;
     margin-left: auto;
@@ -112,7 +112,7 @@ body{
 }
 .profile-card-place{
     text-align: center;
-    color: whitesmoke;
+    color: black;
 }
 .profile-card-place > h6{
     font-size: 1.2em;
