@@ -9,8 +9,8 @@ body{
     font-weight: 300;
     font-size: 13px;
     line-height: 25px;
-    /*color: #48a770;*/
-    color: ghostwhite;
+    color: #48a770;
+    /*color: ghostwhite;*/
 
     overflow-x: hidden;
     /*padding: 0;*/
@@ -37,7 +37,7 @@ body{
     /*margin: -270.5px auto 0 auto;*/
 }
 .orange-text-color{
-    color: black;
+    color: orange;
 }
 .silver-text-color{
     color: silver;
@@ -104,7 +104,7 @@ body{
 }
 .profile-card-header{
     text-align: center;
-    color: black;
+    color: orange;
 }
 .profile-card-header > h4 {
     font-weight: 300;
