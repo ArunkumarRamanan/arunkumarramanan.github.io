@@ -9,7 +9,7 @@ body{
     font-weight: 300;
     font-size: 13px;
     line-height: 25px;
-    color: #48a770;
+    color: #00471e;
     /*color: ghostwhite;*/
 
     overflow-x: hidden;
@@ -37,10 +37,10 @@ body{
     /*margin: -270.5px auto 0 auto;*/
 }
 .orange-text-color{
-    color: orange;
+    color: #0f55d6;
 }
 .silver-text-color{
-    color: silver;
+    color: #000000;
 }
 .blue-text-color{
     color: #2F7BDE;
@@ -49,7 +49,7 @@ body{
     color: #ffffe6;
 }
 .white-text-color{
-    color: #1abc9c;
+    color: #024296;
 }
 
 .no-display{
@@ -104,7 +104,7 @@ body{
 }
 .profile-card-header{
     text-align: center;
-    color: orange;
+    color: 0f55d6;
 }
 .profile-card-header > h4 {
     font-weight: 300;
