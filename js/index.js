@@ -5,7 +5,7 @@ $(document).ready(function () {
                       "CEO, Managing Director (Chairman), CAIO (AI Chief)",
                       "DeepBrainz: A DPIIT Recognized AI Startup, A Google Cloud Partner Member",
                       "Data Scientist - Machine Learning (Algorithms)",
-                      "Machine Learning (Software) Engineer, Agile & AnalyticsOps Engineer",
+                      "Machine Learning (Software) Engineer, Agile AnalyticsOps Engineer",
                       "Machine Learning Practitioner and Consultant",
                       "AI Researcher", 
                       "Kaggle Master",
