@@ -3,9 +3,11 @@ $(document).ready(function () {
         $("#profile-card-header").typed({
             strings: ["Entrepreneur, Founder, Innovator",
                       "CEO, Managing Director (Chairman), CAIO (AI Chief)",
-                      "DeepBrainz: A DPIIT Recognized AI Startup, A Google Cloud Partner Member",
+                      "DeepBrainz: A DPIIT Recognized AI Startup", 
+                      "A Google Cloud Partner Member",
                       "Data Scientist - Machine Learning (Algorithms)",
-                      "Machine Learning (Software) Engineer, Agile AnalyticsOps Engineer",
+                      "Machine Learning (Software) Engineer", 
+                      "Agile AnalyticsOps SW Engineer",
                       "Machine Learning Practitioner and Consultant",
                       "AI Researcher", 
                       "Kaggle Master",
