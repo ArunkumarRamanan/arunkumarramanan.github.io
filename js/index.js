@@ -10,11 +10,13 @@ $(document).ready(function () {
                       "Data Scientist - Machine Learning (Algorithms)",
                       "Machine Learning SW Engineer", 
                       "Agile AnalyticsOps SW Engineer",
+                      "AI Product Manager",
                       "Machine Learning Practitioner",
                       "Machine Learning Consultant",
                       "49th Kaggle Master (Kernels)",
                       "Kaggle 2x Expert (ML/Data Competitions)",
-                      "Deep Reinforcement Learning Enthusiast"
+                      "Deep Reinforcement Learning Enthusiast",
+                      "AI/ML - Open Source OSS Developer"
             ],
             typeSpeed: 0.4,
             loop: true
