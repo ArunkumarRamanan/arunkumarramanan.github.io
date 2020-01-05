@@ -1,7 +1,7 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["Entrepreneur, Founder, Innovator",
+            strings: ["An AI Entrepreneur, Founder, Innovator",
                       "CEO, Managing Director (Chairman)",
                       "DeepBrainz Technologies Private Limited", 
                       "A DPIIT Recognized AI Startup", 
@@ -17,7 +17,7 @@ $(document).ready(function () {
                       "49th Kaggle Master (Kernels)",
                       "Kaggle 2x Expert (ML/Data Competitions)",
                       "Deep Reinforcement Learning Enthusiast",
-                      "AI/ML - Open Source OSS Developer"
+                      "An AI/ML Open Source OSS Developer"
             ],
             typeSpeed: 0.4,
             loop: true
