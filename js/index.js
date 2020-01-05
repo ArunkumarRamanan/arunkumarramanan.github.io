@@ -6,6 +6,7 @@ $(document).ready(function () {
                       "DeepBrainz Technologies Private Limited", 
                       "A DPIIT Recognized AI Startup", 
                       "A Google Cloud Partner Member",
+                      "An AWS Partner Network (APN) Technology Partner",
                       "CAIO (AI Chief), AI Researcher",
                       "Data Scientist - Machine Learning (Algorithms)",
                       "Machine Learning SW Engineer", 
