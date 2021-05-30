@@ -8,7 +8,7 @@ $(document).ready(function () {
                       "A Google Cloud Technology Partner",
                       "A NVIDIA Inception Partner (Member)",
                       "An AWS Partner Network (APN) Technology Partner",
-                      "CAIO (AI Chief), AI Researcher",
+                      "CDO/CAIO (AI Chief), AI Researcher",
                       "Data Scientist - Machine Learning (Algorithms)",
                       "Machine Learning SW Engineer", 
                       "Agile AnalyticsOps SW Engineer",
