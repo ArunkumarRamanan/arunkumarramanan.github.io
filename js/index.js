@@ -6,7 +6,7 @@ $(document).ready(function () {
                       "DeepBrainz Technologies Private Limited", 
                       "A DPIIT Recognized AI Startup", 
                       "A Google Cloud Technology Partner",
-                      "A NVIDIA Inception Partner/Member"
+                      "A NVIDIA Inception Partner (Member)",
                       "An AWS Partner Network (APN) Technology Partner",
                       "CAIO (AI Chief), AI Researcher",
                       "Data Scientist - Machine Learning (Algorithms)",
