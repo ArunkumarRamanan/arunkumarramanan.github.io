@@ -1,24 +1,24 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["An AI Entrepreneur, Founder, Innovator",
+            strings: ["AI Entrepreneur, Founder, Innovator",
                       "CEO, Managing Director (Chairman)",
                       "DeepBrainz Technologies Private Limited", 
-                      "A DPIIT Recognized AI Startup", 
-                      "A Google Cloud Technology Partner",
-                      "A NVIDIA Inception Partner (Member)",
-                      "An AWS Partner Network (APN) Technology Partner",
+                      "DPIIT Recognized AI Startup", 
+                      "Google Cloud Technology Partner",
+                      "NVIDIA Inception Partner (Member)",
+                      "AWS Partner Network (APN) Technology Partner",
                       "CDO/CAIO (AI Chief), AI Researcher",
                       "Data Scientist - Machine Learning (Algorithms)",
-                      "Machine Learning SW Engineer", 
-                      "Agile AnalyticsOps SW Engineer",
+                      "Machine Learning Ops SW Engineer", 
+                      "Cloud SW Architect",
                       "AI Product Manager",
                       "Machine Learning Practitioner",
-                      "Machine Learning Consultant",
+                      "AI Consultant",
                       "49th Kaggle Master (Kernels)",
                       "Kaggle 2x Expert (ML/Data Competitions)",
                       "Deep Reinforcement Learning Enthusiast",
-                      "An AI/ML Open Source OSS Developer"
+                      "AI/ML Open Source OSS Developer"
             ],
             typeSpeed: 0.4,
             loop: true
