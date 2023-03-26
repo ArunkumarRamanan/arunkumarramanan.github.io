@@ -1,24 +1,23 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["AI Entrepreneur, Founder, Innovator",
-                      "CEO, Managing Director (Chairman)",
-                      "DeepBrainz Technologies Private Limited", 
+            strings: ["Serial Entrepreneur, Tech Founder, AI Innovator",
+                      "CEO, Product Management Leader",
+                      "DeepBrainz AI, Stealth Startup", 
                       "DPIIT Recognized AI Startup", 
                       "Google Cloud Technology Partner",
                       "NVIDIA Inception Partner (Member)",
                       "AWS Partner Network (APN) Technology Partner",
-                      "CDO/CAIO (AI Chief), AI Researcher",
-                      "Data Scientist - Machine Learning (Algorithms)",
-                      "Machine Learning Ops SW Engineer", 
-                      "Cloud SW Architect",
-                      "AI Product Manager",
-                      "Machine Learning Practitioner",
-                      "AI Consultant",
-                      "49th Kaggle Master (Kernels)",
-                      "Kaggle 2x Expert (ML/Data Competitions)",
-                      "Deep Reinforcement Learning Enthusiast",
-                      "AI/ML Open Source OSS Developer"
+                      "Chief Technologist",
+                      "Tech Product Manager (Enterprise Tech (SaaS) and Consumer Tech)",
+"Microsoft Startup Member and ISV Success Partner",
+                      "Technical Program Manager",
+"Tech Product Leader",
+                      "Independent Product Consultant",
+"Generalist PM or Product Manager",
+                      "Product Management Generalist", 
+                      "Cloud SW Product Architect",
+                      "49th Kaggle Master (Kernels)"
             ],
             typeSpeed: 0.4,
             loop: true
