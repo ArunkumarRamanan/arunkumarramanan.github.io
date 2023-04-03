@@ -54,7 +54,7 @@ $(document).ready(function () {
     };
 
     $(function(){
-        $('#tab-3').click(function(){
+        $('#tab-2').click(function(){
             if ($(this).is(':checked'))
             {
                 var filterizd = $('.filtr-container').filterizr(options);
