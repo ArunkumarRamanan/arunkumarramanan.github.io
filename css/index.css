@@ -186,10 +186,11 @@ body{
 .fa-kaggle{
     color: #0d99c9;
 }
-.fa-medium, .fa-medium-square, .fa-medium-m {
-
+.fa-medium, .fa-medium-square {
     color: #000000;
-
+}
+.fa-medium-m {
+    color: ##39AD48;
 }
 /**********************************/
 /********Profile Separator*********/
